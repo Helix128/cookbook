@@ -15,6 +15,3 @@ exclude = ["examples"]
 configure_args = []
 build_args = []
 install_args = []
-
-[build.cmake.defines]
-BUILD_EXAMPLES = "OFF"
