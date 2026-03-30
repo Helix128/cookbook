@@ -11,7 +11,7 @@ strip_prefix = "raylib-5.5"
 
 [build]
 system = "cmake"
-exclude = ["examples", "tests"]
+exclude = ["examples"]
 configure_args = []
 build_args = []
 install_args = []
